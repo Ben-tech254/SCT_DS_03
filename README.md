@@ -2,7 +2,7 @@ This project entailed building a decision tree classifier to predict whether a c
 
 The following are the steps that I followed:
 
-- Loading the dataset
+-Loading the dataset
 
 -Exploring the dataset so that I could understand it
 
